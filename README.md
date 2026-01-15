@@ -34,7 +34,7 @@
 
   ## Contact
   For privacy concerns, contact:
-  [YOUR_EMAIL@example.com]
+  bad.habit.app@gmail.com
 
   ## Changes to This Policy
   We may update this policy occasionally. Changes
