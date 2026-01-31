@@ -1,42 +1,20 @@
- # Privacy Policy - Bad Habit
+ # Privacy Policy for Instead
 
-  **Last Updated:** January 15, 2026
+  **Last updated:** January 31, 2025
 
-  ## Overview
-  Bad Habit is a mobile application designed to help
-  users track their abstinence from bad habits. This
-  privacy policy explains our data practices.
+  Instead does not collect, store, or transmit any personal data. All
+  information you enter in the app is stored locally on your device
+  only.
 
-  ## Data Collection
-  Bad Habit **does not collect, store, or transmit
-  any personal data** to external servers.
+  **Data Collection:** None
 
-  All data is stored locally on your device only:
-  - Habit information (name, emoji, dates)
-  - Time and money tracking
-  - Progress milestones
+  **Data Sharing:** None
 
-  This data never leaves your device and is not
-  shared with us or any third parties.
+  **Analytics:** None
 
-  ## Local Storage Only
-  We use your device's local storage to save your
-  habit data. You have full control:
-  - You can delete the app and all data is removed
-  - You can manually delete individual habits within
-  the app
-  - No data is synced to cloud services
+  **Third-party Services:** None
 
-  ## Third-Party Services
-  Bad Habit does not use analytics, advertising
-  networks, or any third-party data collection
-  services.
+  All your habit data remains private on your device. We have no access
+   to it.
 
-  ## Contact
-  For privacy concerns, contact:
-  bad.habit.app@gmail.com
-
-  ## Changes to This Policy
-  We may update this policy occasionally. Changes
-  will be reflected with an updated "Last Updated"
-  date.
+  **Contact:** https://www.instagram.com/takayukinakamura_
